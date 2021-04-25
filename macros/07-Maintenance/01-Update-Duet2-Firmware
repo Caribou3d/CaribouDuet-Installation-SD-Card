@@ -8,7 +8,7 @@
 ;
 ; =========================================================================================================
 ;
-M291 P"Updating firmware for Duet2Wifi. Press OK to continue or CANCEL to abort." R""Make sure you loaded Duet2CombinedFirmware.bin to sys folder." S3
+M291 P"Updating firmware for Duet2Wifi. Press OK to continue or CANCEL to abort." R"Make sure you loaded Duet2CombinedFirmware.bin to sys folder." S3
 M997 S0
 ;
 ; =========================================================================================================
